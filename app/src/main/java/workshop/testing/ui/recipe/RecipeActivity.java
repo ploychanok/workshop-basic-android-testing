@@ -5,7 +5,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
-
 import workshop.testing.R;
 import workshop.testing.data.local.RecipeStore;
 import workshop.testing.data.model.Recipe;
